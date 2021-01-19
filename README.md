@@ -2,7 +2,7 @@
 
 # Passenger
 In this project, a Passenger class will store information about a single passenger and the flight numbers they are booked for.
-Note that a single Passenger can book multiple flights. Passenger must support the following instance methods:
+Note that a single Passenger can book multiple flights. Passenger supports the following instance methods:
 
 Attributes
 @name
