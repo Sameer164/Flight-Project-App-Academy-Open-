@@ -7,6 +7,8 @@ Note that a single Passenger can book multiple flights. Passenger supports the f
 >Attributes   
 >>@name  
 >>@flight_numbers  
+
+
 >Instance Methods  
 >>initialize  
 >>name  
